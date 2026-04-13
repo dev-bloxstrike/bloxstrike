@@ -6,7 +6,7 @@
 
 > The most complete and actively maintained **blox strike script** available in 2026 — featuring silent aim, player ESP, hitbox expansion, HvH mode, and a fully keyless execution experience.
 
-## [🎯 Download Bloxstrike Script 🎯] (https://dev-bloxstrike.github.io/bloxstrike/)
+## [🎯 Download Bloxstrike Script 🎯](https://dev-bloxstrike.github.io/bloxstrike/)
 
 <img width="1280" height="720" alt="Bloxstrike Script — Aimbot, Wallhacks, Silent Aim, Player ESP" src="https://github.com/user-attachments/assets/7eb4d518-9947-4167-ab7d-76f809947419" />
 
@@ -18,7 +18,7 @@ Bloxstrike is one of Roblox's most competitive FPS experiences — fast-paced, s
 
 This **blox strike roblox script** was engineered to handle all of it. Whether you need pixel-perfect silent aim that doesn't look like obvious aimbot, a reliable **bloxstrike ESP script** that renders enemies through walls, or a dedicated **bloxstrike HvH script** built specifically for hack-vs-hack lobbies — this project delivers. Best of all, unlike most **bloxstrike script pastebin** drops that go stale within days, this repository is actively maintained and patched with every major game update.
 
-### [🎯 Download Bloxstrike Script 🎯] (https://dev-bloxstrike.github.io/bloxstrike/)
+### [🎯 Download Bloxstrike Script 🎯](https://dev-bloxstrike.github.io/bloxstrike/)
 
 ---
 
